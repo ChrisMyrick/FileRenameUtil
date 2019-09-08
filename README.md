@@ -1,2 +1,2 @@
 # FileRenameUtil
-Prepends an incremental number to a collection of files. Used as prep for wav triggering.
+This can be used to rename a folder/collection of files in batch to prepended each file with incremental numerical values to prepare them for use with Robertsonics WavTrigger.
