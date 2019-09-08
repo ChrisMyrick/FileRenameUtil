@@ -8,3 +8,4 @@ This is a Winforms utility that can be used to rename a folder/collection of .wa
 multiple batches over time with different starting values.
 4. The renamed files will be written to a subfolder of the folder you selected, named "Converted"
 
+![alt text](https://github.com/ChrisMyrick/FileRenameUtil/blob/master/screenshot1.png)
