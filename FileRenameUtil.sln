@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileRenameUtil", "FileRenameUtil\FileRenameUtil.csproj", "{DC448426-6D7D-4A13-9584-5F06B18B6F4E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{346421F6-CE3A-4BDB-BBA7-9B666CC8C756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42B19F58-EACC-4E20-9DA6-1113462A010F}"
+	ProjectSection(SolutionItems) = preProject
+		screenshot1.png = screenshot1.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
